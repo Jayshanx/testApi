@@ -1,36 +1,34 @@
 {
 	"data": {
 		"curPage": 2,
-		"datas": [{
+		"datas": [    {
 			"RecmtInfoId": "100001",
-			"author": "小编",
 			"RecmtInfoArea": "雨花台区",
-			"RecmtInfoJobType": "20180930",
-			"RecmtInfoendDate": "3000.00",
-			"MonSalary": "阿里巴巴",
-		},{
-			"RecmtInfoId": "100001",
-			"author": "小编",
+			"RecmtInfoJobType": "工程师",
+			"RecmtInfoendDate": "20180930",
+            "Company":"阿里巴巴",
+			"MonSalary": "2000.00"
+		},    {
+			"RecmtInfoId": "100002",
 			"RecmtInfoArea": "雨花台区",
-			"RecmtInfoJobType": "20180930",
-			"RecmtInfoendDate": "3000.00",
-			"MonSalary": "阿里巴巴",
-		},
-    {
-			"RecmtInfoId": "100001",
-			"author": "小编",
+			"RecmtInfoJobType": "工程师",
+			"RecmtInfoendDate": "20180930",
+            "Company":"阿里巴巴",
+			"MonSalary": "2000.00"
+		}, {
+			"RecmtInfoId": "100003",
 			"RecmtInfoArea": "雨花台区",
-			"RecmtInfoJobType": "20180930",
-			"RecmtInfoendDate": "3000.00",
-			"MonSalary": "阿里巴巴",
-		},
-    {
-			"RecmtInfoId": "100001",
-			"author": "小编",
+			"RecmtInfoJobType": "工程师",
+			"RecmtInfoendDate": "20180930",
+            "Company":"阿里巴巴",
+			"MonSalary": "2000.00"
+		}, {
+			"RecmtInfoId": "100004",
 			"RecmtInfoArea": "雨花台区",
-			"RecmtInfoJobType": "20180930",
-			"RecmtInfoendDate": "3000.00",
-			"MonSalary": "阿里巴巴",
+			"RecmtInfoJobType": "工程师",
+			"RecmtInfoendDate": "20180930",
+            "Company":"阿里巴巴",
+			"MonSalary": "2000.00"
 		}],
 		"offset": 20,
 		"over": false,
