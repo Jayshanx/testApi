@@ -1,0 +1,48 @@
+{
+	"data": {
+		"curPage": 0,
+		"datas": [{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "雨花台区",
+			"RecmtInfoJobType": "工程师",
+       "RecmtInfoendDate": "20180930", 
+			"MonSalary": "4000.00",
+			"Company":"腾讯"
+		},{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "雨花台区",
+			"RecmtInfoJobType": "工程师",
+       "RecmtInfoendDate": "20180930", 
+			"MonSalary": "4000.00",
+			"Company":"腾讯"
+		},{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "雨花台区",
+			"RecmtInfoJobType": "工程师",
+       "RecmtInfoendDate": "20180930", 
+			"MonSalary": "4000.00",
+			"Company":"腾讯"
+		},{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "雨花台区",
+			"RecmtInfoJobType": "工程师",
+       "RecmtInfoendDate": "20180930", 
+			"MonSalary": "4000.00",
+			"Company":"腾讯"
+		},{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "雨花台区",
+			"RecmtInfoJobType": "工程师",
+       "RecmtInfoendDate": "20180930", 
+			"MonSalary": "4000.00",
+			"Company":"腾讯"
+		},],
+		"offset": 20,
+		"over": true,
+		"pageCount": 82,
+		"size": 20,
+		"total": 20
+	},
+	"errorCode": 0,
+	"errorMsg": ""
+}
