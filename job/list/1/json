@@ -1,6 +1,6 @@
 {
 	"data": {
-		"curPage": 1,
+		"curPage": 2,
 		"datas": [{
 			"RecmtInfoId": "100001",
 			"RecmtInfoArea": "雨花台区",
@@ -37,11 +37,11 @@
 			"MonSalary": "4000.00",
 			"Company":"腾讯"
 		}],
-		"offset": 20,
+		"offset": 4,
 		"over": true,
-		"pageCount": 82,
-		"size": 20,
-		"total": 20
+		"pageCount": 2,
+		"size": 4,
+		"total": 8
 	},
 	"errorCode": 0,
 	"errorMsg": ""
