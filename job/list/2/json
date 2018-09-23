@@ -1,0 +1,63 @@
+{
+	"data": {
+		"curPage": 2,
+		"datas": [{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "建邺区",
+			"RecmtInfoJobType": "工程师",
+      "RecmtInfoendDate": "20180930", 
+			"AgentReward": "4000.00",
+			"Company":"百度"，
+			"RequiredPeople":"12453",
+			"SigndPeople":"50"
+			
+		},{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "建邺区",
+			"RecmtInfoJobType": "工程师",
+       "RecmtInfoendDate": "20180930", 
+			"AgentReward": "4000.00",
+			"Company":"百度"，
+			"RequiredPeople":"1223",
+			"SigndPeople":"50"
+			
+		},{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "建邺区",
+			"RecmtInfoJobType": "工程师",
+       "RecmtInfoendDate": "20180930", 
+			"AgentReward": "4000.00",
+			"Company":"百度"，
+			"RequiredPeople":"100",
+			"SigndPeople":"50"
+			
+		},{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "建邺区",
+			"RecmtInfoJobType": "工程师",
+       "RecmtInfoendDate": "20180930", 
+			"AgentReward": "4000.00",
+			"Company":"百度"，
+			"RequiredPeople":"123",
+			"SigndPeople":"50"
+			
+		},{
+			"RecmtInfoId": "100001",
+			"RecmtInfoArea": "建邺区",
+			"RecmtInfoJobType": "工程师",
+       "RecmtInfoendDate": "20180930", 
+			"AgentReward": "4000.00",
+			"Company":"百度"，
+			"RequiredPeople":"123",
+			"SigndPeople":"50"
+			
+		}],
+		"offset": 8,
+		"over": true,
+		"pageCount": 2,
+		"size": 5,
+		"total": 10
+	},
+	"errorCode": 0,
+	"errorMsg": ""
+}
