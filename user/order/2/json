@@ -1,0 +1,54 @@
+{
+    "data": {
+        "curPage": 2,
+        "datas": [
+            {
+                "AgentName": "尼古拉斯赵四",
+                "RecmtedName": "张全蛋",
+                "RecmtInfoId": "123",
+                "Company":"腾讯",
+                "AreaId":"雨花台区",
+                "CreateDate":"2018/9/23 15:03:46"
+            },
+              {
+                "AgentName": "尼古拉斯赵四",
+                "RecmtedName": "张全蛋",
+                "RecmtInfoId": "123",
+                "Company":"腾讯",
+                "AreaId":"雨花台区",
+                "CreateDate":"2018/9/23 15:03:46"
+            },
+              {
+                "AgentName": "尼古拉斯赵四",
+                "RecmtedName": "张全蛋",
+                "RecmtInfoId": "123",
+                "Company":"腾讯",
+                "AreaId":"雨花台区",
+                "CreateDate":"2018/9/23 15:03:46"
+            },
+              {
+                "AgentName": "尼古拉斯赵四",
+                "RecmtedName": "张全蛋",
+                "RecmtInfoId": "123",
+                "Company":"腾讯",
+                "AreaId":"雨花台区",
+                "CreateDate":"2018/9/23 15:03:46"
+            },
+              {
+                "AgentName": "张全蛋",
+                "RecmtedName": "张全蛋",
+                "RecmtInfoId": "123",
+                "Company":"腾讯",
+                "AreaId":"雨花台区",
+                "CreateDate":"2018/9/23 15:03:46"
+            }
+        ],
+        "offset": 6,
+        "over": true,
+        "pageCount": 2,
+        "size": 5,
+        "total": 11
+    },
+    "errorCode": 0,
+    "errorMsg": ""
+}
