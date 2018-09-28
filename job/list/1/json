@@ -1,63 +1,54 @@
 {
-	"data": {
-		"curPage": 2,
-		"datas": [{
-			"RecmtInfoId": "100001",
-			"RecmtInfoArea": "雨花台区",
-			"RecmtInfoJobType": "工程师",
-       			"RecmtInfoendDate": "20180930", 
-			"AgentReward": "4000.00",
-			"Company":"腾讯",
-			"RequiredPeople":"123",
-			"SigndPeople":"50"
-			
-		},{
-			"RecmtInfoId": "100001",
-			"RecmtInfoArea": "雨花台区",
-			"RecmtInfoJobType": "工程师",
-       			"RecmtInfoendDate": "20180930", 
-			"AgentReward": "4000.00",
-			"Company":"腾讯",
-			"RequiredPeople":"123",
-			"SigndPeople":"50"
-			
-		},{
-			"RecmtInfoId": "100001",
-			"RecmtInfoArea": "雨花台区",
-			"RecmtInfoJobType": "工程师",
-       			"RecmtInfoendDate": "20180930", 
-			"AgentReward": "4000.00",
-			"Company":"腾讯",
-			"RequiredPeople":"123",
-			"SigndPeople":"50"
-			
-		},{
-			"RecmtInfoId": "100001",
-			"RecmtInfoArea": "雨花台区",
-			"RecmtInfoJobType": "工程师",
-       			"RecmtInfoendDate": "20180930", 
-			"AgentReward": "4000.00",
-			"Company":"腾讯",
-			"RequiredPeople":"123",
-			"SigndPeople":"50"
-			
-		},{
-			"RecmtInfoId": "100001",
-			"RecmtInfoArea": "雨花台区",
-			"RecmtInfoJobType": "工程师",
-       			"RecmtInfoendDate": "20180930", 
-			"AgentReward": "4000.00",
-			"Company":"腾讯",
-			"RequiredPeople":"123",
-			"SigndPeople":"50"
-			
-		}],
-		"offset": 0,
-		"over": false,
-		"pageCount": 2,
-		"size": 5,
-		"total": 13
-	},
-	"errorCode": 0,
-	"errorMsg": ""
+    "data": {
+        "curPage": 1,
+        "datas": [
+            {
+                "RecmtInfoId": "10001",
+                "RecmtInfoArea": "雨花台区",
+                "RecmtInfoJobType": "工程师",
+                "RequiredPeople": "100",
+                "Company": "腾讯",
+                "AgentReward": "2000.00",
+                "RecmtInfoendDate": "20180930",
+                "SigndPeople":"13"
+            },
+            {
+                "RecmtInfoId": "10001",
+                "RecmtInfoArea": "雨花台区",
+                "RecmtInfoJobType": "工程师",
+                "RequiredPeople": "200",
+                "Company": "腾讯",
+                "AgentReward": "2000.00",
+                "RecmtInfoendDate": "20180930",
+                "SigndPeople":"123"
+            },
+            {
+                "RecmtInfoId": "10001",
+                "RecmtInfoArea": "雨花台区",
+                "RecmtInfoJobType": "工程师",
+                "RequiredPeople": "200",
+                "Company": "腾讯",
+                "AgentReward": "2000.00",
+                "RecmtInfoendDate": "20180930",
+                "SigndPeople":"123"
+            },
+            {
+                "RecmtInfoId": "10001",
+                "RecmtInfoArea": "雨花台区",
+                "RecmtInfoJobType": "工程师",
+                "RequiredPeople": "200",
+                "Company": "腾讯",
+                "AgentReward": "2000.00",
+                "RecmtInfoendDate": "20180930",
+                "SigndPeople":"123"
+            }
+        ],
+        "offset": 0,
+        "over": false,
+        "pageCount": 2,
+        "size": 4,
+        "total": 4
+    },
+    "errorCode": 0,
+    "errorMsg": ""
 }
