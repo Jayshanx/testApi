@@ -1,0 +1,50 @@
+{
+    "data": {
+        "curPage": 1,
+        "datas": [
+            {
+                "postId": "1",
+                "userid": "123456",
+                "postUsername":"小黑",
+                "postTitle": "目前还在测试开发中1",
+                "postSummary":"summary目前还在测试开发中，有兴趣的朋友可以体验体验给给建议哦！如要运用到项目中请自行下载项目导入mvvm-quik模块，也可直接以该项目开始开发。s",
+                "commentNum":"4",
+                "postingTime":"2018-9-28/11:16:53"
+            },
+            {
+                "postId": "2",
+                "userid": "123456",
+                "postUsername":"小黑",
+                "postTitle": "目前还在测试开发中2",
+                "postSummary":"summary目前还在测试开发中，有兴趣的朋友可以体验体验给给建议哦！如要运用到项目中请自行下载项目导入mvvm-quik模块，也可直接以该项目开始开发。s",
+                "commentNum":"105",
+                "postingTime":"2018-9-28/11:16:53"
+            },
+            {
+                "postId": "3",
+                "userid": "123456",
+                "postUsername":"小黑",
+                "postTitle": "目前还在测试开发中3",
+                "postSummary":"summary目前还在测试开发中，有兴趣的朋友可以体验体验给给建议哦！如要运用到项目中请自行下载项目导入mvvm-quik模块，也可直接以该项目开始开发。s",
+                "commentNum":"45",
+                "postingTime":"2018-9-28/11:16:53"
+            },
+            {
+                "postId": "4",
+                "userid": "123456",
+                "postUsername":"小黑",
+                "postTitle": "目前还在测试开发中4",
+                "postSummary":"summary目前还在测试开发中，有兴趣的朋友可以体验体验给给建议哦！如要运用到项目中请自行下载项目导入mvvm-quik模块，也可直接以该项目开始开发。s",
+                "commentNum":"45",
+                "postingTime":"2018-9-28/11:16:53"
+            }
+        ],
+        "offset": 0,
+        "over": true,
+        "pageCount": 2,
+        "size": 4,
+        "total": 4
+    },
+    "errorCode": 0,
+    "errorMsg": ""
+}
