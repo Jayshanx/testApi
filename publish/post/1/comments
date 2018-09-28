@@ -8,7 +8,7 @@
                 "commentuserid":"147852",
                 "commentBody": "目前还在测试开发中",
                 "commentTime":"2018-9-28/11:16:53",
-                "commentFloor":"15",
+                "commentFloor":"1",
                 "replyList":[{
                     "subCommentid":"12346",
                     "subUsername":"小白",
@@ -37,7 +37,7 @@
                 "commentuserid":"147852",
                 "commentBody": "有兴趣的朋友可以体验体验给给建议哦",
                 "commentTime":"2018-9-28/11:16:53",
-                "commentFloor":"15",
+                "commentFloor":"2",
                 "replyList":[{
                     "subCommentid":"12346",
                     "subUsername":"铁蛋",
@@ -66,7 +66,7 @@
                 "commentuserid":"147852",
                 "commentBody": "如要运用到项目中请自行下载项目导入mvvm-quik模块，也可直接以该项目开始开发。",
                 "commentTime":"2018-9-28/11:16:53",
-                "commentFloor":"15",
+                "commentFloor":"3",
                 "replyList":[]
             }
         ],
