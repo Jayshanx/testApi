@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "name":"李菊",
+            "totalReward": "3000.00"
+        },
+        {
+            "name":"马源",
+            "totalReward": "3000.00"
+        },
+        {
+            "name":"顾欣桐",
+            "totalReward": "3000.00"
+        },
+        {
+            "name":"徐斌斌",
+            "totalReward": "3000.00"
+        },
+        {
+            "name":"孙董扬",
+            "totalReward": "3000.00"
+        },
+        {
+            "name":"于晓强",
+            "totalReward": "3000.00"
+        },
+        {
+            "name":"杨月",
+            "totalReward": "3000.00"
+        },
+        {
+            "name":"李鸿",
+            "totalReward": "3000.00"
+        },
+        {
+            "name":"徐涛",
+            "totalReward": "3000.00"
+        },
+        {
+            "name":"柳扬希",
+            "totalReward": "3000.00"
+        }
+    ],
+    "errorCode": 0,
+    "errorMsg": ""
+}
