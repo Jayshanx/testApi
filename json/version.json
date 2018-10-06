@@ -4,9 +4,9 @@
   "data":{
     "version_name":"1.0.2",
     "version_code":3,
-    "update_info":"1.测试更新11111111111",
-    "file_size":"8.8M",
-    "constraint":false,
-    "apk_url":"http://192.168.1.100:8080/file/app-release.apk"
+    "update_info":"1.强制更新，优化订单处理\n",
+    "file_size":"13.8M",
+    "constraint":true,
+    "apk_url":"http://111.231.145.123:8080/file/app-release.apk"
   }
 }
