@@ -6,7 +6,7 @@
     "version_code":3,
     "update_info":"1.测试更新11111111111",
     "file_size":"8.8M",
-    "constraint":true,
+    "constraint":false,
     "apk_url":"http://192.168.1.100:8080/file/app-release.apk"
   }
 }
