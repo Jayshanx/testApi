@@ -1,0 +1,12 @@
+{
+    "code": 1,
+    "message": "success",
+    "result": {
+        "id":"123",
+        "userIcon":"userIcon",
+        "userName":"xiao",
+        "userGender":"male",
+        "userMobile":"123456",
+        "userSign":"123455",
+    }
+}
